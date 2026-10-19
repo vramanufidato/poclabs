@@ -1,0 +1,90 @@
+section,title,type,file,size_kb,source
+ai-genai/agentic-ai,AG2 AutoGen 101,Notebook,ai-genai/agentic-ai/ag2-autogen-101.ipynb,39.6,Architect/AI/genai2/aicustom/agenticai/frameworks/AG2 101 AutoGen Complete Tutorial.ipynb
+ai-genai/agentic-ai,Agent Orchestration Patterns in AG2,Word lab,ai-genai/agentic-ai/agent-orchestration-patterns-in-ag2.docx,33.6,Architect/AI/genai2/aicustom/agenticai/frameworks/Agent Orchestration and Design Patterns in AG2.docx
+ai-genai/agentic-ai,Agent-Tool vs Task-Tool in CrewAI,Notebook,ai-genai/agentic-ai/agent-tool-vs-task-tool-in-crewai.ipynb,36.1,Architect/AI/genai2/aicustom/agenticai/frameworks/Agent-Tool vs Task-Tool in CrewAI.ipynb
+ai-genai/agentic-ai,Agentic AI Gradio App,Python,ai-genai/agentic-ai/agentic-ai-gradio-app.py,7.5,Architect/AI/genai2/aicustom/agenticai/app.py
+ai-genai/agentic-ai,Agentic AI with BeeAI,Word lab,ai-genai/agentic-ai/agentic-ai-with-beeai.docx,550.5,Architect/AI/genai2/aicustom/agenticai/frameworks/Building Agentic AI Systems with the BeeAI Framework.docx
+ai-genai/agentic-ai,CrewAI 101 — Multi-Agent Systems,Notebook,ai-genai/agentic-ai/crewai-101-multi-agent-systems.ipynb,32.4,Architect/AI/genai2/aicustom/agenticai/frameworks/CrewAI 101 Building Multi-Agent AI Systems.ipynb
+ai-genai/agentic-ai,DocChat — Multi-Agent RAG System,Word lab,ai-genai/agentic-ai/docchat-multi-agent-rag-system.docx,1586.8,Architect/AI/genai2/aicustom/agenticai/LAB DocChat_ Build a Multi-Agent RAG System.docx
+ai-genai/agentic-ai,LangGraph 101 — Stateful AI Workflows,Notebook,ai-genai/agentic-ai/langgraph-101-stateful-ai-workflows.ipynb,62.4,Architect/AI/genai2/aicustom/agenticai/lab - LangGraph101 Building Stateful AI Workflows.ipynb
+ai-genai/agentic-ai,LangGraph Design Patterns,Notebook,ai-genai/agentic-ai/langgraph-design-patterns.ipynb,67.7,Architect/AI/genai2/aicustom/agenticai/frameworks/Build LangGraph Design Patterns Orchestration Evaluation.ipynb
+ai-genai/agentic-ai,Meal Planner with CrewAI,Notebook,ai-genai/agentic-ai/meal-planner-with-crewai.ipynb,68.7,Architect/AI/genai2/aicustom/agenticai/frameworks/Create a Structured Meal Grocery Planner with CrewAI.ipynb
+ai-genai/agentic-ai,Multi-Agent Chatbot with AG2 AutoGen,Notebook,ai-genai/agentic-ai/multi-agent-chatbot-with-ag2-autogen.ipynb,28.1,Architect/AI/genai2/aicustom/agenticai/frameworks/Build Multi-Agent Chatbot with AG2 AutoGen for Healthcare.ipynb
+ai-genai/agentic-ai,Reasoning and Acting Agents with LangGraph,Notebook,ai-genai/agentic-ai/reasoning-and-acting-agents-with-langgraph.ipynb,37.7,Architect/AI/genai2/aicustom/agenticai/Build Reasoning and Acting AI Agents with LangGraph.ipynb
+ai-genai/agentic-ai,Reflection Agent with LangGraph,Notebook,ai-genai/agentic-ai/reflection-agent-with-langgraph.ipynb,42.3,Architect/AI/genai2/aicustom/agenticai/lab - Building a Reflection Agent with LangGraph.ipynb
+ai-genai/agentic-ai,Reflexion Agent with External Knowledge,Notebook,ai-genai/agentic-ai/reflexion-agent-with-external-knowledge.ipynb,28.2,Architect/AI/genai2/aicustom/agenticai/lab - Building a Reflexion Agent with External Knowledge In.ipynb
+ai-genai/agentic-ai,Workflow Patterns with LangGraph,Notebook,ai-genai/agentic-ai/workflow-patterns-with-langgraph.ipynb,63.2,Architect/AI/genai2/aicustom/agenticai/frameworks/Implement Workflow Patterns with LangGraph.ipynb
+ai-genai/ai-agents,AI Math Assistant with Tool Calling,Notebook,ai-genai/ai-agents/ai-math-assistant-with-tool-calling.ipynb,70.3,Architect/AI/genai2/aicustom/aiagent/AI-Math-Assistant Tool Calling.ipynb
+ai-genai/ai-agents,Interactive LLM Agents with Tools,Notebook,ai-genai/ai-agents/interactive-llm-agents-with-tools.ipynb,27.5,Architect/AI/genai2/aicustom/aiagent/Build Interactive LLM Agents with Tools.ipynb
+ai-genai/ai-agents,LLM-Powered Data Science with LCEL,Notebook,ai-genai/ai-agents/llm-powered-data-science-with-lcel.ipynb,37.7,Architect/AI/genai2/aicustom/aiagent/LLM-Powered Data Science LCEL.ipynb
+ai-genai/ai-agents,Manual Tool-Calling Agent,Notebook,ai-genai/ai-agents/manual-tool-calling-agent.ipynb,68.3,Architect/AI/genai2/aicustom/aiagent/Manual Tool-Calling Agent.ipynb
+ai-genai/ai-agents,Natural Language SQL Agent,Word lab,ai-genai/ai-agents/natural-language-sql-agent.docx,2269.0,Architect/AI/genai2/aicustom/aiagent/LAB Build a Natural Language SQL Agent.docx
+ai-genai/ai-agents,Text-to-Chart Visualization Agent,Notebook,ai-genai/ai-agents/text-to-chart-visualization-agent.ipynb,31.6,Architect/AI/genai2/aicustom/aiagent/Text-to-chart in Jupyter notebook Visualization Agent.ipynb
+ai-genai/multimodal,AI Meeting Assistant,Word lab,ai-genai/multimodal/ai-meeting-assistant.docx,4602.6,"Architect/AI/genai2/aicustom/multimodal/LAB Build an AI Meeting Assistant_ Instant Notes, Zero Worries.docx"
+ai-genai/multimodal,AI Nutrition Coach,Word lab,ai-genai/multimodal/ai-nutrition-coach.docx,1545.2,Architect/AI/genai2/aicustom/multimodal/LAB Building Your First GenAI-Powered Image-Based Web Application_ AI Nutrition Coach.docx
+ai-genai/multimodal,DALL·E Image Generation,Notebook,ai-genai/multimodal/dall-e-image-generation.ipynb,56.5,Architect/AI/genai2/aicustom/multimodal/DALL E Image generation Guide for Beginners.ipynb
+ai-genai/multimodal,Image Captioning with watsonx,Notebook,ai-genai/multimodal/image-captioning-with-watsonx.ipynb,30.2,Architect/AI/genai2/aicustom/multimodal/Build an Image Captioning System with watsonx and Granite.ipynb
+ai-genai/multimodal,Personal Storyteller with Mixtral + gTTS,Notebook,ai-genai/multimodal/personal-storyteller-with-mixtral-gtts.ipynb,17.8,Architect/AI/genai2/aicustom/multimodal/Use Mixtral and gTTS to create your personal storyteller.ipynb
+ai-genai/multimodal,Style Finder App,Python,ai-genai/multimodal/style-finder-app.py,8.2,Architect/AI/genai2/aicustom/multimodal/app.py
+ai-genai/multimodal,Style Finder — Fashion Analysis,Word lab,ai-genai/multimodal/style-finder-fashion-analysis.docx,1075.9,Architect/AI/genai2/aicustom/multimodal/LAB Style Finder_ Computer Vision-Based Fashion Analysis.docx
+ai-genai/rag,Advanced Retrievers in LlamaIndex,Notebook,ai-genai/rag/advanced-retrievers-in-llamaindex.ipynb,90.5,Architect/AI/genai2/aicustom/rag/Explore Advanced Retrievers in LlamaIndex.ipynb
+ai-genai/rag,First GenAI Application,Word lab,ai-genai/rag/first-genai-application.docx,219.9,Architect/AI/genai2/aicustom/3/Build Your First GenAI Application The Right Way.docx
+ai-genai/rag,Gradio Interface for Models,Word lab,ai-genai/rag/gradio-interface-for-models.docx,4080.4,Architect/AI/genai2/aicustom/rag/Set Up a Simple Gradio Interface to Interact with Your Models.docx
+ai-genai/rag,Private Document Summarization with RAG,Notebook,ai-genai/rag/private-document-summarization-with-rag.ipynb,42.7,Architect/AI/genai2/aicustom/rag/Summarize private documents using RAG LangChain and LLMs.ipynb
+ai-genai/rag,QA Bot over Loaded Documents,Word lab,ai-genai/rag/qa-bot-over-loaded-documents.docx,1850.0,Architect/AI/genai2/aicustom/rag/Construct a QA Bot that Leverages LangChain and LLMs to Answer Questions from Loaded Documents.docx
+ai-genai/rag,Smarter Search with LangChain,Notebook,ai-genai/rag/smarter-search-with-langchain.ipynb,40.4,Architect/AI/genai2/aicustom/rag/Build a Smarter Search with LangChain Context Retrieval.ipynb
+ai-genai/vector-databases,Enhanced RAG Chatbot,Python,ai-genai/vector-databases/enhanced-rag-chatbot.py,14.7,Architect/AI/genai2/aicustom/vectordb/enhanced_rag_chatbot.py
+ai-genai/vector-databases,Food Search + RAG Chatbot,Word lab,ai-genai/vector-databases/food-search-rag-chatbot.docx,1198.7,Architect/AI/genai2/aicustom/vectordb/Practice Project_ Interactive Food Search and RAG Chatbot System.docx
+ai-genai/vector-databases,Semantic Similarity with FAISS,Notebook,ai-genai/vector-databases/semantic-similarity-with-faiss.ipynb,27.4,Architect/AI/genai2/aicustom/vectordb/Semantic Similarity with FAISS.ipynb
+ai-genai/vector-databases,Similarity Search by Hand,Notebook,ai-genai/vector-databases/similarity-search-by-hand.ipynb,40.4,Architect/AI/genai2/aicustom/vectordb/Similarity Search by Hand.ipynb
+ai-genai/vector-databases,Similarity Search on Employee Records,Word lab,ai-genai/vector-databases/similarity-search-on-employee-records.docx,153.4,Architect/AI/genai2/aicustom/vectordb/Hands-on Lab_ Similarity Search on Employee Records using Python and Chroma DB.docx
+ai-genai/vector-databases,Similarity Search with ChromaDB,Word lab,ai-genai/vector-databases/similarity-search-with-chromadb.docx,133.6,Architect/AI/genai2/aicustom/vectordb/Hands-on Lab_ Similarity Search on Text Using a Chroma Vector Database.docx
+ai-genai/vector-databases,YouTube Summarizer + RAG Q&A,Word lab,ai-genai/vector-databases/youtube-summarizer-rag-q-a.docx,828.5,"Architect/AI/genai2/aicustom/vectordb/LAB AI-Powered YouTube Summarizer, QA Tool with RAG, LangChain, FAISS.docx"
+ai-genai/mcp,Advanced MCP Applications,Word lab,ai-genai/mcp/advanced-mcp-applications.docx,270.4,"Architect/AI/genai2/mcp/Advanced MCP Applications with Streamable HTTP, Roots, and Sampling.docx"
+ai-genai/mcp,Custom MCP Client in Python,Word lab,ai-genai/mcp/custom-mcp-client-in-python.docx,230.8,Architect/AI/genai2/mcp/Build a Custom MCP Client with Python.docx
+ai-genai/mcp,Enhanced MCP Server,Word lab,ai-genai/mcp/enhanced-mcp-server.docx,372.0,Architect/AI/genai2/mcp/Build an Enhanced MCP Server.docx
+ai-genai/mcp,Hello World MCP Server,Notebook,ai-genai/mcp/hello-world-mcp-server.ipynb,44.6,Architect/AI/genai2/mcp/FINAL Hello World of MCP Servers.ipynb
+ai-genai/mcp,Run Existing MCP Servers,Notebook,ai-genai/mcp/run-existing-mcp-servers.ipynb,28.3,Architect/AI/genai2/mcp/Run Existing MCP Servers.ipynb
+cloud-gcp/data-engineering,BigQuery ML Getting Started,Word lab,cloud-gcp/data-engineering/bigquery-ml-getting-started.docx,877.4,Architect/Cloud/cloud/gcp/DEG/Getting Started with BigQuery ML.docx
+cloud-gcp/data-engineering,GCP Data Engineering Lab Notebook,Notebook,cloud-gcp/data-engineering/gcp-data-engineering-lab-notebook.ipynb,117.3,Architect/Cloud/cloud/gcp/DEG/lab/initial.ipynb
+cloud-gcp/data-engineering,Hello Cloud Run,Word lab,cloud-gcp/data-engineering/hello-cloud-run.docx,879.1,Architect/Cloud/cloud/gcp/Hello Cloud Run.docx
+cloud-gcp/data-engineering,Natural Language API Classification,Word lab,cloud-gcp/data-engineering/natural-language-api-classification.docx,779.5,Architect/Cloud/cloud/gcp/DEG/lab/Using the Natural Language API to classify unstructured text.docx
+cloud-gcp/data-engineering,Pipelines on Vertex AI,Word lab,cloud-gcp/data-engineering/pipelines-on-vertex-ai.docx,928.2,Architect/Cloud/cloud/gcp/DEG/lab/Running Pipelines on Vertex AI 2.docx
+cloud-gcp/data-engineering,VPC Networking,Word lab,cloud-gcp/data-engineering/vpc-networking.docx,626.6,Architect/Cloud/cloud/gcp/VPC Networking.docx
+cloud-gcp/gke,BigQuery in JupyterLab,Word lab,cloud-gcp/gke/bigquery-in-jupyterlab.docx,1144.9,Architect/Cloud/cloud/gcp/gke/BigQuery in JupyterLab on Agent Platform 2.docx
+cloud-gcp/gke,GKE Lab Notebook,Notebook,cloud-gcp/gke/gke-lab-notebook.ipynb,5.6,Architect/Cloud/cloud/gcp/gke/lab.ipynb
+security/python,Activity: Assign Python Variables,Notebook,security/python/activity-assign-python-variables.ipynb,26.6,Architect/security/Python/Notebook/Activity_Assign Python variables.ipynb
+security/python,Activity: Create Loops,Notebook,security/python/activity-create-loops.ipynb,23.2,Architect/security/Python/Notebook/Activity_Create loops.ipynb
+security/python,Activity: Create More Functions,Notebook,security/python/activity-create-more-functions.ipynb,27.8,Architect/security/Python/Notebook/Activity_Create more functions.ipynb
+security/python,Activity: Define and Call a Function,Notebook,security/python/activity-define-and-call-a-function.ipynb,19.7,Architect/security/Python/Notebook/Activity_Define and call a function.ipynb
+security/python,Activity: Develop an Algorithm,Notebook,security/python/activity-develop-an-algorithm.ipynb,32.3,Architect/security/Activity_Develop an algorithm.ipynb
+security/python,Activity: Import and Parse a Text File,Notebook,security/python/activity-import-and-parse-a-text-file.ipynb,24.3,Architect/security/Activity_Import and parse a text file.ipynb
+security/python,Activity: Regular Expressions,Notebook,security/python/activity-regular-expressions.ipynb,31.7,Architect/security/Activity_Use regular expressions to find patterns.ipynb
+security/python,Activity: Work with Strings,Notebook,security/python/activity-work-with-strings.ipynb,23.9,Architect/security/Python/Notebook/Activity_Work with strings in Python.ipynb
+security/python,Exemplar: Create Another Algorithm,Notebook,security/python/exemplar-create-another-algorithm.ipynb,36.2,Architect/security/Exemplar_Create another algorithm.ipynb
+security/python,Exemplar: Create Loops,Notebook,security/python/exemplar-create-loops.ipynb,27.1,Architect/security/Python/Notebook/Exemplar_Create loops.ipynb
+security/python,Exemplar: Create More Functions,Notebook,security/python/exemplar-create-more-functions.ipynb,32.4,Architect/security/Python/Notebook/Exemplar_Create more functions.ipynb
+security/python,Exemplar: Define and Call a Function,Notebook,security/python/exemplar-define-and-call-a-function.ipynb,22.6,Architect/security/Python/Notebook/Exemplar_Define and call a function.ipynb
+security/python,Exemplar: Develop an Algorithm,Notebook,security/python/exemplar-develop-an-algorithm.ipynb,40.3,Architect/security/Exemplar_Develop an algorithm.ipynb
+security/python,Exemplar: Import and Parse a Text File,Notebook,security/python/exemplar-import-and-parse-a-text-file.ipynb,25.4,Architect/security/Exemplar_Import and parse a text file.ipynb
+security/python,Exemplar: Regular Expressions,Notebook,security/python/exemplar-regular-expressions.ipynb,37.2,Architect/security/Exemplar_Use regular expressions to find patterns.ipynb
+security/python,Exemplar: Work with Strings,Notebook,security/python/exemplar-work-with-strings.ipynb,28.9,Architect/security/Python/Notebook/Exemplar_Work with strings in Python.ipynb
+security/python,Lab 014: Debug Python Code,Notebook,security/python/lab-014-debug-python-code.ipynb,19.3,Architect/security/bck/LAB_014_Activity.ipynb
+security/python,Lab 014: Debug Python Code (Exemplar),Notebook,security/python/lab-014-debug-python-code-exemplar.ipynb,25.3,Architect/security/bck/LAB_014_Exemplar.ipynb
+security/python,Lab: Create a Conditional Statement,Notebook,security/python/lab-create-a-conditional-statement.ipynb,27.4,Architect/security/Python/Notebook/LAB_Activity_CreateAConditionalStatement.ipynb
+security/python,Lab: Practice Writing Python Code,Notebook,security/python/lab-practice-writing-python-code.ipynb,13.9,Architect/security/Python/Notebook/LAB_Activity_PracticeWritingPythonCode.ipynb
+security/linux,Linux: Add and Manage Users,Word lab,security/linux/linux-add-and-manage-users.docx,525.8,Architect/security/linux/Activity_ Add and manage users with Linux commands.docx
+security/linux,Linux: Command-Line Help,Word lab,security/linux/linux-command-line-help.docx,527.0,Architect/security/linux/Activity_ Get help in the command line.docx
+security/linux,Linux: Filter with grep,Word lab,security/linux/linux-filter-with-grep.docx,525.5,Architect/security/linux/Activity_ Filter with grep.docx
+security/linux,Linux: Find Files,Word lab,security/linux/linux-find-files.docx,525.7,Architect/security/linux/Activity_ Find files with Linux commands.docx
+security/linux,Linux: Input and Output,Word lab,security/linux/linux-input-and-output.docx,526.7,Architect/security/linux/Activity_ Examine input_output in the Linux shell.docx
+security/linux,Linux: Install Software,Word lab,security/linux/linux-install-software.docx,527.7,Architect/security/linux/Activity_ Install software in a Linux distribution.docx
+security/sql,"SQL: AND, OR, NOT",Word lab,security/sql/sql-and-or-not.docx,544.0,"Architect/security/sql/Activity_ Filter with AND, OR, and NOT.docx"
+security/sql,SQL: Apply More Filters,Word lab,security/sql/sql-apply-more-filters.docx,543.4,Architect/security/sql/Activity_ Apply more filters in SQL.docx
+security/sql,SQL: Complete a Join,Word lab,security/sql/sql-complete-a-join.docx,543.4,Architect/security/sql/Activity_ Complete a SQL join.docx
+security/sql,SQL: Filter a Query,Word lab,security/sql/sql-filter-a-query.docx,543.3,Architect/security/sql/Activity_ Filter a SQL query.docx
+security/sql,SQL: Perform a Query,Word lab,security/sql/sql-perform-a-query.docx,544.0,Architect/security/sql/Activity_ Perform a SQL query.docx
+security/analysis,Security: Create Hash Values,Word lab,security/analysis/security-create-hash-values.docx,527.0,Architect/security/Assets/Activity_ Create hash values.docx
+security/analysis,Security: Decrypt a Message,Word lab,security/analysis/security-decrypt-a-message.docx,526.5,Architect/security/Assets/Activity_ Decrypt an encrypted message.docx
+security/analysis,Wireshark: Analyze Your First Packet,Word lab,security/analysis/wireshark-analyze-your-first-packet.docx,4088.3,Architect/security/Alarm/Activity_ Analyze your first packet with Wireshark.docx
+security/analysis,Wireshark: Capture Your First Packet,Word lab,security/analysis/wireshark-capture-your-first-packet.docx,540.9,Architect/security/Alarm/Activity_ Capture your first packet.docx
